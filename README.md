@@ -5,7 +5,7 @@
 
 * git地址: [https://gitee.com/yu_xiao_qi/pytest-auto-api2](https://gitee.com/yu_xiao_qi/pytest-auto-api2)
 * 项目参与者: 余少琪
-* 技术支持邮箱: 1603453211@qq.com
+* 技术支持邮箱: xxx@qq.com
 * 个人博客地址:  [https://blog.csdn.net/weixin_43865008](https://blog.csdn.net/weixin_43865008)
 
 如果对您有帮助，请点亮 小星星 以表支持，谢谢
